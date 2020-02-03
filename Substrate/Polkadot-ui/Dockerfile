@@ -1,1 +1,1 @@
-FROM
+FROM centrifugeio/polkadot-ui:latest
